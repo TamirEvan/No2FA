@@ -11,6 +11,6 @@ My projects are moving to GitLab: https://gitlab.com/tamirevan
 
 and Bitbucket: https://bitbucket.org/tamirevan/
 
-***Note**: *This is a fork of @howtophil's [No2FA](https://github.com/howtophil/No2FA).
+***Note**: This is a fork of @howtophil's [No2FA](https://github.com/howtophil/No2FA).
 You too can fork it, edit it to direct people to your new place(s), and show
 that you are against forced 2FA nonsense.*
