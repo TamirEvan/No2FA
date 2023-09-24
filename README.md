@@ -7,10 +7,10 @@ GitHub, let me decide how I want my account secured.
 
 It's just another layer of crap to get logged in.
 
-My projects will upload to Pastebin: https://pastebin.com/u/howtophil
+My projects are moving to GitLab: https://gitlab.com/tamirevan
 
-and Bitbucket: https://bitbucket.org/prhoades/
+and Bitbucket: https://bitbucket.org/tamirevan/
 
-***Note**: Seems that some are forking this and modifying it to point to their new locations.
-Sounds like a good plan to me. You can direct people to a new place and show
+***Note**: *This is a fork of @howtophil's [No2FA](https://github.com/howtophil/No2FA).
+You too can fork it, edit it to direct people to your new place(s), and show
 that you are against forced 2FA nonsense.*
